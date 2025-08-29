@@ -12,7 +12,10 @@
   <a href="https://www.noernova.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fnoernova.com" height=25></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NoerNova&row=2&column=3&theme=nord" alt="noernova" /></a> </p>
+<p align="center"> 
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NoerNova&row=2&column=3&theme=nord" alt="noernova" /></a> -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygh.kolioaris.xyz/?username=NoerNova&row=2&column=3&theme=nord" alt="noernova" /></a>
+</p>
 
 - 👨‍💻 All of my projects are available at [https://www.noernova.com/works](https://www.noernova.com/works)
 - 📝 I regularly write articles on [https://www.noernova.com/blog](https://www.noernova.com/blog)
