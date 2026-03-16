@@ -14,7 +14,7 @@
 
 <p align="center"> 
   <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NoerNova&row=2&column=3&theme=nord" alt="noernova" /></a> -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=NoerNova&row=2&column=3&theme=nord" alt="noernova" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=NoerNova&row=2&column=3&theme=nord" alt="noernova" /></a>
 </p>
 
 - 👨‍💻 All of my projects are available at [https://www.noernova.com/works](https://www.noernova.com/works)
